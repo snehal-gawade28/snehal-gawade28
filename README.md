@@ -9,12 +9,12 @@
 
 ---
 
-### 💡 **About Me**  
+### 🌟 **About Me**  
 - 👀 I’m interested in **Python, R, SQL, Tableau, and Power BI** to extract meaningful insights from complex datasets.  
 - 🌱 I love learning as a process and constantly exploring new things...  
-- 📌 I’m currently learning **Deep Learning, NLP, Power BI, and Time Series Analysis...**  
+- 📌 I’m currently learning **Deep Learning, NLP, and Time Series Analysis...**  
 - 👯 I’m looking to collaborate on **interesting Data Science Projects!**  
-- 📫 You can reach me at **snehalgawade2655@gmail.com**  
+- 📧 You can reach me at **snehalgawade2655@gmail.com**  
 
 ---
 
@@ -24,18 +24,21 @@ Here are some of my key **Data Science & Machine Learning Projects:**
 #### 🏆 [Titanic Survival Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)  
 - 📌 Developed a **Machine Learning model** to predict passenger survival based on demographic and travel details.  
 - 🔍 Applied **EDA, feature engineering, logistic regression, and decision trees**.  
+- 🔗 **Live Demo:** [Titanic Survival Prediction App](https://titanic-survival-prediction-app1.streamlit.app/)  
 
 #### ☀️ [Solar Panel Efficiency Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)  
 - 📊 Analyzed factors affecting **solar panel performance** under different conditions.  
 - 🚀 Implemented **data visualization and statistical modeling** for better insights.  
+- 🔗 **Live Demo:** [Solar Panel Prediction App](https://solar-panel-prediction-app.streamlit.app/)  
 
 #### 📡 [Telecommunication Customer Churn](https://github.com/snehuuu28/Telecom-Churn-Prediction)  
 - 🔎 Predicted **customer churn** using advanced ML algorithms.  
 - 📈 Improved retention strategies by analyzing user behavior patterns.  
+- 🔗 **Live Demo:** [Telecom Churn Prediction App](https://telecommunications-churn-prediction-app.streamlit.app/)  
 
 ---
 
-### 📡 **Connect with Me**  
+### 💼 **Connect with Me**  
 <p align="left">
 <a href="https://linkedin.com/in/snehal-gawade-bb76b0228" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Snehal Gawade LinkedIn" height="30" width="40" />
