@@ -13,8 +13,8 @@
 - 👀 I’m interested in **Python, R, SQL, Tableau, and Power BI** to extract meaningful insights from complex datasets.  
 - 🌱 I love learning as a process and constantly exploring new things...  
 - 📌 I’m currently learning **Deep Learning, NLP, and Time Series Analysis...**  
-- 👯 I’m looking to collaborate on **interesting Data Science Projects!**  
-- 📧 You can reach me at **snehalgawade2655@gmail.com**  
+- 👯️ I’m looking to collaborate on **interesting Data Science Projects!**  
+- 💎 You can reach me at **snehalgawade2655@gmail.com**  
 
 ---
 
@@ -27,14 +27,20 @@ Here are some of my key **Data Science & Machine Learning Projects:**
 - 🔗 **Live Demo:** [Titanic Survival Prediction App](https://titanic-survival-prediction-app1.streamlit.app/)  
 
 #### ☀️ [Solar Panel Efficiency Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)  
-- 📊 Analyzed factors affecting **solar panel performance** under different conditions.  
+- 📈 Analyzed factors affecting **solar panel performance** under different conditions.  
 - 🚀 Implemented **data visualization and statistical modeling** for better insights.  
 - 🔗 **Live Demo:** [Solar Panel Prediction App](https://solar-panel-prediction-app.streamlit.app/)  
 
-#### 📡 [Telecommunication Customer Churn](https://github.com/snehuuu28/Telecom-Churn-Prediction)  
+#### 🐟 [Telecommunication Customer Churn](https://github.com/snehuuu28/Telecom-Churn-Prediction)  
 - 🔎 Predicted **customer churn** using advanced ML algorithms.  
 - 📈 Improved retention strategies by analyzing user behavior patterns.  
 - 🔗 **Live Demo:** [Telecom Churn Prediction App](https://telecommunications-churn-prediction-app.streamlit.app/)  
+
+#### 🏥 [Life Expectancy Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)  
+- 📌 Developed a **Machine Learning model** to predict **life expectancy** based on health, economic, and social factors.  
+- 🔍 Applied **EDA, feature engineering, regression models, and hyperparameter tuning** for better accuracy.  
+- 📈 Identified key determinants influencing **life expectancy** using data-driven insights.  
+- 🔗 **Live Demo:** [Life Expectancy Prediction App](https://life-expectancy-prediction.streamlit.app/)  
 
 ---
 
@@ -81,19 +87,9 @@ Here are some of my key **Data Science & Machine Learning Projects:**
 ---
 
 ## 📊 **GitHub Stats:**
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehuuu28&langs_count=8&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical&count_private=true" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
 </p>
 
 ---
