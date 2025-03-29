@@ -13,7 +13,7 @@
 - 👀 I’m interested in **Python, R, SQL, Tableau, and Power BI** to extract meaningful insights from complex datasets.  
 - 🌱 I love learning as a process and constantly exploring new things...  
 - 📌 I’m currently learning **Deep Learning, NLP, and Time Series Analysis...**  
-- 👯️ I’m looking to collaborate on **interesting Data Science Projects!**  
+- 💯 I’m looking to collaborate on **interesting Data Science Projects!**  
 - 💎 You can reach me at **snehalgawade2655@gmail.com**  
 
 ---
@@ -42,6 +42,18 @@ Here are some of my key **Data Science & Machine Learning Projects:**
 - 📈 Identified key determinants influencing **life expectancy** using data-driven insights.  
 - 🔗 **Live Demo:** [Life Expectancy Prediction App](https://life-expectancy-prediction.streamlit.app/)  
 
+#### 🚳️ [Amazon Web Scraping: Laptops & iPhone 15 Reviews](https://github.com/snehuuu28/Amazon-Web-Scraping)  
+- 🔍 Scrapes **laptop details** and **iPhone 15 reviews** from **Amazon** using **Python, BeautifulSoup, and Selenium**.  
+- 📈 Enables **price tracking**, **sentiment analysis**, and **competitive research**.  
+- 💾 Saves structured data in **CSV format** for further analysis.  
+- 🔗 **GitHub Repository:** [Amazon Web Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)  
+
+##### 📂 **Project Files:**  
+🔖 [Laptop Products Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)  
+🔖 [iPhone 15 Reviews Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)  
+📂 [Laptop Products Data](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)  
+📂 [iPhone 15 Reviews Data](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)  
+
 ---
 
 ### 💼 **Connect with Me**  
@@ -55,23 +67,8 @@ Here are some of my key **Data Science & Machine Learning Projects:**
 
 ### 🛠 **Languages and Tools:**  
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -81,7 +78,7 @@ Here are some of my key **Data Science & Machine Learning Projects:**
   </a>
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-</a>
+  </a>
 </p>
 
 ---
