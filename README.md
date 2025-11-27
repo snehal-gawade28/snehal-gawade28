@@ -6,123 +6,130 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+ML+%7C+Analytics+%7C+NLP+🚀" />
 </p>
 
-
 <img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20views&color=0e75b6&style=flat" alt="snehuuu28" /> </p>
-
+  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=flat" />
 </p>
 
+---
 
-
-# **About Me**
-
-* 🎓 Data Science Postgraduate with strong ML & Analytics expertise
-* 🧠 Skilled in **Python, SQL, R, Tableau, Power BI, Machine Learning, NLP, ETL**
-* 🚀 Passionate about building **real-world ML apps & end-to-end data pipelines**
-* 📊 Love creating **interactive dashboards, clean datasets, and automation workflows**
-* 🌱 Learning **Deep Learning, Time Series & Cloud**
-* 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
-
-
-# 🚀 **Highlighted Projects (with Live Apps + Repos)**
-
-## 🛍️ **Retail Sales Performance Analytics (SQL + Power BI)**
-
-📌 **Repo:**
-[https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
-
-- ✨ Designed a **Retail Star Schema**, analyzed KPIs, and delivered BI insights using SQL + Power BI.
-
-- 🔹 Sales, Growth, Profit KPIs
-- 🔹 ETL + Data Cleaning
-- 🔹 Region-wise patterns & insights
+# 🌟 About Me
+- 🎓 Data Science Postgraduate with strong ML & Analytics expertise  
+- 🧠 Skilled in **Python, SQL, R, Tableau, Power BI, Machine Learning, NLP, ETL**  
+- 🚀 Passionate about building **real-world ML apps & end-to-end data pipelines**  
+- 📊 Love creating **interactive dashboards, clean datasets, and automation workflows**  
+- 🌱 Learning **Deep Learning, Time Series & Cloud**  
+- 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
 
 ---
 
-## 🏆 **Titanic Survival Prediction (ML + Streamlit)**
-
-📌 **Repo:**
-[https://github.com/snehuuu28/Titanic-Survival-Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)
-
-🔗 **Live App:**
-[https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
-
-- ✨ Machine Learning classification model with EDA + feature engineering
-
-- 🔹 Logistic Regression, Decision Tree
-- 🔹 User-friendly Streamlit App
+# 🚀 Highlighted Projects (with Live Apps + Repos)
 
 ---
 
-## ☀️ **Solar Panel Efficiency Analysis**
+## 🛍️ Retail Sales Performance Analytics (SQL + Power BI)
 
-📌 **Repo:**
-[https://github.com/snehuuu28/Solar-Panel-Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)
+**Repo:**  
+https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project
 
-🔗 **Live App:**
-[https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
-
-- ✨ Regression modeling & power output analysis
-
----
-
-## 📡 **Telecommunication Customer Churn**
-
-📌 **Repo:**
-[https://github.com/snehuuu28/Telecom-Churn-Prediction](https://github.com/snehuuu28/Telecom-Churn-Prediction)
-
-🔗 **Live App:**
-[https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
-
-- ✨ XGBoost + RF models delivering **92% accuracy**
-
-- 🔹 SHAP insights
-- 🔹 Churn probability dashboard
+**What I did:**  
+- Designed a **Retail Star Schema** (FactSales, DimCustomer, DimProduct, DimRegion).  
+- Built ETL pipelines and cleaned the transactional data.  
+- Created SQL-based KPIs: Sales, Profit, Growth, and Margin calculations.  
+- Developed Power BI dashboards to present region-wise and product-wise insights.  
+- Provided recommendations that enabled an estimated **13% potential revenue improvement**.
 
 ---
 
-## 🏥 **Life Expectancy Prediction**
+## 🏆 Titanic Survival Prediction (ML + Streamlit)
 
-📌 **Repo:**
-[https://github.com/snehuuu28/Life-Expectancy-Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)
+**Repo:**  
+https://github.com/snehuuu28/Titanic-Survival-Prediction
 
-🔗 **Live App:**
-[https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
+**Live App:**  
+https://titanic-survival-prediction-app1.streamlit.app/
 
-✨ Predicting global life expectancy using socio-economic indicators
+**What I did:**  
+- Performed thorough EDA and feature engineering.  
+- Built and compared classification models (Logistic Regression, Decision Tree, etc.).  
+- Tuned models and evaluated performance using precision/recall/F1.  
+- Deployed a user-friendly Streamlit app for interactive predictions.
 
 ---
 
-## 🛒 **Amazon Web Scraping (Laptops + iPhone Reviews)**
+## ☀️ Solar Panel Efficiency Analysis
 
-📌 **Repo:**
-[https://github.com/snehuuu28/Amazon-Web-Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)
+**Repo:**  
+https://github.com/snehuuu28/Solar-Panel-Analysis
 
-✨ Scraped laptop details & iPhone 15 reviews using Selenium + BeautifulSoup
+**Live App:**  
+https://solar-panel-prediction-app.streamlit.app/
 
-📂 **Important Files:**
+**What I did:**  
+- Engineered weather-based features and cleaned the dataset.  
+- Built regression models to predict panel output.  
+- Achieved strong predictive performance and visualized insights in Streamlit.  
+- Highlighted environmental factors impacting efficiency.
 
-* 🔖 Laptop Scraper
-  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)
-* 🔖 iPhone Review Scraper
-  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)
-* 📊 Laptop Dataset
-  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)
-* 📊 iPhone Reviews
-  [https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)
+---
 
+## 📡 Telecommunication Customer Churn
 
-📂 **Important Files:**
+**Repo:**  
+https://github.com/snehuuu28/Telecom-Churn-Prediction
 
-* 🔖 [Laptop Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)
-* 🔖 [iPhone Review Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)
-* 📊 [Laptop Dataset](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)
-* 📊 [iPhone Reviews](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)
+**Live App:**  
+https://telecommunications-churn-prediction-app.streamlit.app/
 
+**What I did:**  
+- Trained XGBoost and Random Forest models achieving ~**92% accuracy**.  
+- Used SHAP to explain important churn drivers.  
+- Built a Streamlit dashboard to predict churn probability and visualize features.  
+- Suggested actionable retention strategies based on model insights.
 
-# 🛠 **Skills & Tools**
+---
+
+## 🏥 Life Expectancy Prediction
+
+**Repo:**  
+https://github.com/snehuuu28/Life-Expectancy-Prediction
+
+**Live App:**  
+https://life-expectancy-prediction.streamlit.app/
+
+**What I did:**  
+- Collected and cleaned socio-economic & health datasets.  
+- Built Random Forest models to predict life expectancy.  
+- Created interactive visualizations to explore country-level trends.  
+- Summarized top influencing features affecting life expectancy.
+
+---
+
+## 🛒 Amazon Web Scraping (Laptops + iPhone Reviews)
+
+**Repo:**  
+https://github.com/snehuuu28/Amazon-Web-Scraping
+
+**What I did:**  
+- Built Selenium + BeautifulSoup scrapers to collect product listings and reviews.  
+- Cleaned and structured scraped data into CSVs for analysis.  
+- Performed sentiment analysis and price/feature trend studies.  
+- Included ready-to-use Jupyter notebooks for ETL and preprocessing.
+
+**Important files:**  
+- Laptop Scraper notebook:  
+  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb  
+- iPhone Review Scraper notebook:  
+  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb  
+- Laptop dataset CSV:  
+  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv  
+- iPhone reviews CSV:  
+  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv
+
+---
+
+# 🛠 Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
@@ -134,38 +141,33 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
+---
 
-
-# 📊 **GitHub Stats**
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
 </p>
 
+---
 
-
-# 🔥 **GitHub Contribution Graph**
+# 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+---
 
-# 🌐 **Connect With Me**
+# 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/snehal-gawade28" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Snehal_Gawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
+[LinkedIn — Snehal Gawade](https://linkedin.com/in/snehal-gawade28)
 
+---
 
-
-# ✨ **Thank You for Visiting!**
+# ✨ Thank You for Visiting!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=600&lines=Thanks+For+Stopping+By!;Happy+Coding+%F0%9F%9A%80;See+You+On+My+Projects+%F0%9F%93%9A" />
 </p>
-
-
