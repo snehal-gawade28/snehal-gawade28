@@ -18,13 +18,10 @@
 - 🌱 Learning **Deep Learning, Time Series & Cloud**  
 - 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
 
----
-
 # 🚀 Highlighted Projects (with Live Apps + Repos)
 
----
 
-## 🛍️ Retail Sales Performance Analytics (SQL + Power BI)
+## 🛍️ Retail Sales Performance Analytics (SQL)
 
 **Repo:**  
 https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project
