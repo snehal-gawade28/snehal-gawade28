@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+ML+%7C+Analytics+%7C+NLP+🚀" />
 </p>
 
----
 
 <img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
@@ -16,7 +15,7 @@
 
 
 
-# 🌟 **About Me**
+# **About Me**
 
 * 🎓 Data Science Postgraduate with strong ML & Analytics expertise
 * 🧠 Skilled in **Python, SQL, R, Tableau, Power BI, Machine Learning, NLP, ETL**
