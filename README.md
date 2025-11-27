@@ -1,4 +1,4 @@
-# <img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="80"/>
+# <img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="200"/>
 
 <h1 align="center">✨ Hi, I'm Snehal Gawade! 👋</h1>
 <h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=flat" />
 </p>
 
----
+
 
 # 🌟 **About Me**
 
@@ -26,13 +26,11 @@
 * 🌱 Learning **Deep Learning, Time Series & Cloud**
 * 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
 
----
 
 # 🚀 **Highlighted Projects (with Live Apps + Repos)**
 
 ### *Fully animated section — all links clickable & neat.*
 
----
 
 ## 🛍️ **Retail Sales Performance Analytics (SQL + Power BI)**
 
@@ -42,7 +40,6 @@
 🔹 ETL + Data Cleaning
 🔹 Region-wise patterns & insights
 
----
 
 ## 🏆 **Titanic Survival Prediction (ML + Streamlit)**
 
@@ -52,7 +49,7 @@
 🔹 Logistic Regression, Decision Tree
 🔹 User-friendly Streamlit App
 
----
+
 
 ## ☀️ **Solar Panel Efficiency Analysis**
 
@@ -60,7 +57,7 @@
 🔗 **Live App:** [https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
 ✨ Regression modeling & power output analysis
 
----
+
 
 ## 📡 **Telecommunication Customer Churn**
 
@@ -70,7 +67,6 @@
 🔹 SHAP insights
 🔹 Churn probability dashboard
 
----
 
 ## 🏥 **Life Expectancy Prediction**
 
@@ -78,7 +74,6 @@
 🔗 **Live App:** [https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
 ✨ Predicting global life expectancy using socio-economic indicators
 
----
 
 ## 🛒 **Amazon Web Scraping (Laptops + iPhone Reviews)**
 
@@ -92,7 +87,6 @@
 * 📊 [Laptop Dataset](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)
 * 📊 [iPhone Reviews](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)
 
----
 
 # 🛠 **Skills & Tools**
 
@@ -106,7 +100,7 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
----
+
 
 # 📊 **GitHub Stats**
 
@@ -115,7 +109,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
 </p>
 
----
+
 
 # 🔥 **GitHub Contribution Graph**
 
@@ -123,7 +117,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 # 🌐 **Connect With Me**
 
@@ -133,7 +126,7 @@
 </a>
 </p>
 
----
+
 
 # ✨ **Thank You for Visiting!**
 
