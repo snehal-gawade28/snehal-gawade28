@@ -28,19 +28,6 @@
 
 # 🚀 **Highlighted Projects (with Live Apps + Repos)**
 
-Got it!
-You want your **project descriptions properly spaced**, with **each point on a new line**, **NOT continuous**.
-
-I will fix ONLY the project section formatting — keeping your entire README exactly as you want, but with **clean, readable bullet points**.
-
-Here is your corrected **project section (copy–paste)**:
-
----
-
-# 🚀 **Highlighted Projects (with Live Apps + Repos)**
-
----
-
 ## 🛍️ **Retail Sales Performance Analytics (SQL + Power BI)**
 
 📌 **Repo:**
@@ -64,7 +51,7 @@ Here is your corrected **project section (copy–paste)**:
 
 - ✨ Machine Learning classification model with EDA + feature engineering
 
--🔹 Logistic Regression, Decision Tree
+- 🔹 Logistic Regression, Decision Tree
 - 🔹 User-friendly Streamlit App
 
 ---
