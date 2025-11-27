@@ -1,12 +1,6 @@
-<img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="80"/>
+![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
 
 <!-- 🔹 DARK MODE PROFILE VIEWS (WORKING) -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=PROFILE%20VIEWS&color=grey&style=for-the-badge" />
-</p>
-
-<h1 align="center">✨ Hi, I'm Snehal Gawade! 👋</h1>
-<h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+Machine+Learning+%7C+Analytics+%7C+NLP+🚀">
@@ -14,7 +8,6 @@
 
 <img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
----
 
 # 🌟 About Me
 
