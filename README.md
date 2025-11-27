@@ -46,11 +46,11 @@ Here is your corrected **project section (copy–paste)**:
 📌 **Repo:**
 [https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
 
-✨ Designed a **Retail Star Schema**, analyzed KPIs, and delivered BI insights using SQL + Power BI.
+- ✨ Designed a **Retail Star Schema**, analyzed KPIs, and delivered BI insights using SQL + Power BI.
 
-🔹 Sales, Growth, Profit KPIs
-🔹 ETL + Data Cleaning
-🔹 Region-wise patterns & insights
+- 🔹 Sales, Growth, Profit KPIs
+- 🔹 ETL + Data Cleaning
+- 🔹 Region-wise patterns & insights
 
 ---
 
@@ -62,10 +62,10 @@ Here is your corrected **project section (copy–paste)**:
 🔗 **Live App:**
 [https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
 
-✨ Machine Learning classification model with EDA + feature engineering
+- ✨ Machine Learning classification model with EDA + feature engineering
 
-🔹 Logistic Regression, Decision Tree
-🔹 User-friendly Streamlit App
+-🔹 Logistic Regression, Decision Tree
+- 🔹 User-friendly Streamlit App
 
 ---
 
@@ -77,7 +77,7 @@ Here is your corrected **project section (copy–paste)**:
 🔗 **Live App:**
 [https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
 
-✨ Regression modeling & power output analysis
+- ✨ Regression modeling & power output analysis
 
 ---
 
@@ -89,10 +89,10 @@ Here is your corrected **project section (copy–paste)**:
 🔗 **Live App:**
 [https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
 
-✨ XGBoost + RF models delivering **92% accuracy**
+- ✨ XGBoost + RF models delivering **92% accuracy**
 
-🔹 SHAP insights
-🔹 Churn probability dashboard
+- 🔹 SHAP insights
+- 🔹 Churn probability dashboard
 
 ---
 
