@@ -1,134 +1,144 @@
-# Snehal Gawade – Data Scientist | Analyst | ML Enthusiast
+# <img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="80"/>
 
-<h3 align="center">Passionate about turning raw data into impactful insights & intelligent solutions</h3>
+<h1 align="center">✨ Hi, I'm Snehal Gawade! 👋</h1>
+<h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
 
----
-
-<img align="right" alt="coding" width="420" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
-
-## 👋 Hi, I'm Snehal!
-
-A motivated **Data Scientist & Data Analyst** who loves exploring data, discovering insights, and building ML models & analytical dashboards that solve real-world problems. I enjoy transforming raw data into meaningful stories and creating ML applications that anyone can use.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+ML+%7C+Analytics+%7C+NLP+🚀" />
+</p>
 
 ---
 
-## 🌟 **About Me**
+<img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-* 🔍 Strong interest in **Machine Learning, Data Analytics & AI**
-* 🐍 Skilled in **Python, SQL, R, Tableau, Power BI**
-* 📊 Passionate about clean dashboards, interactive apps & insightful EDA
-* 🚀 Currently learning **Deep Learning, NLP & Time Series Forecasting**
-* 📫 Reach me at **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=flat" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 **About Me**
+
+* 🎓 Data Science Postgraduate with strong ML & Analytics expertise
+* 🧠 Skilled in **Python, SQL, R, Tableau, Power BI, Machine Learning, NLP, ETL**
+* 🚀 Passionate about building **real-world ML apps & end-to-end data pipelines**
+* 📊 Love creating **interactive dashboards, clean datasets, and automation workflows**
+* 🌱 Learning **Deep Learning, Time Series & Cloud**
+* 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
 
 ---
 
-## 🛍️ **Retail Sales Analysis – SQL Project**
+# 🚀 **Highlighted Projects (with Live Apps + Repos)**
 
-**📌 Repo:** [https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
-
-* Designed and analyzed a complete **retail sales database** using SQL
-* Performed **data cleaning, joins, aggregations, date functions & window functions**
-* Generated insights on **sales trends, top products, customer patterns, store performance**
-* Created an analysis pipeline suitable for real-world business reporting
-* Demonstrates strong SQL query writing and analytical thinking
+### *Fully animated section — all links clickable & neat.*
 
 ---
 
-## 🏆 **Titanic Survival Prediction**
+## 🛍️ **Retail Sales Performance Analytics (SQL + Power BI)**
 
-* Machine learning model to predict survival outcomes
-* Includes EDA, feature engineering, classification modeling
-* **🔗 Live App:** [https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
-* **📁 Repo:** [https://github.com/snehuuu28/Titanic-Survival-Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)
+📌 **Repo:** [https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project](https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project)
+✨ Designed a **Retail Star Schema**, analyzed KPIs, and delivered BI insights using SQL + Power BI.
+🔹 Sales, Growth, Profit KPIs
+🔹 ETL + Data Cleaning
+🔹 Region-wise patterns & insights
+
+---
+
+## 🏆 **Titanic Survival Prediction (ML + Streamlit)**
+
+📌 **Repo:** [https://github.com/snehuuu28/Titanic-Survival-Prediction](https://github.com/snehuuu28/Titanic-Survival-Prediction)
+🔗 **Live App:** [https://titanic-survival-prediction-app1.streamlit.app/](https://titanic-survival-prediction-app1.streamlit.app/)
+✨ Machine Learning classification model with EDA + feature engineering
+🔹 Logistic Regression, Decision Tree
+🔹 User-friendly Streamlit App
 
 ---
 
 ## ☀️ **Solar Panel Efficiency Analysis**
 
-* Studied environmental factors affecting solar performance
-* Applied statistical modeling & visualization
-* **🔗 Live App:** [https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
-* **📁 Repo:** [https://github.com/snehuuu28/Solar-Panel-Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)
+📌 **Repo:** [https://github.com/snehuuu28/Solar-Panel-Analysis](https://github.com/snehuuu28/Solar-Panel-Analysis)
+🔗 **Live App:** [https://solar-panel-prediction-app.streamlit.app/](https://solar-panel-prediction-app.streamlit.app/)
+✨ Regression modeling & power output analysis
 
 ---
 
-## 📡 **Telecommunication Customer Churn Prediction**
+## 📡 **Telecommunication Customer Churn**
 
-* Built ML models to predict customer churn
-* Helped interpret customer behavior influencing churn
-* **🔗 Live App:** [https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
-* **📁 Repo:** [https://github.com/snehuuu28/Telecom-Churn-Prediction](https://github.com/snehuuu28/Telecom-Churn-Prediction)
+📌 **Repo:** [https://github.com/snehuuu28/Telecom-Churn-Prediction](https://github.com/snehuuu28/Telecom-Churn-Prediction)
+🔗 **Live App:** [https://telecommunications-churn-prediction-app.streamlit.app/](https://telecommunications-churn-prediction-app.streamlit.app/)
+✨ XGBoost + RF models delivering **92% accuracy**
+🔹 SHAP insights
+🔹 Churn probability dashboard
 
 ---
 
 ## 🏥 **Life Expectancy Prediction**
 
-* Predicts life expectancy using health & economic indicators
-* Regression models + tuning to improve accuracy
-* **🔗 Live App:** [https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
-* **📁 Repo:** [https://github.com/snehuuu28/Life-Expectancy-Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)
+📌 **Repo:** [https://github.com/snehuuu28/Life-Expectancy-Prediction](https://github.com/snehuuu28/Life-Expectancy-Prediction)
+🔗 **Live App:** [https://life-expectancy-prediction.streamlit.app/](https://life-expectancy-prediction.streamlit.app/)
+✨ Predicting global life expectancy using socio-economic indicators
 
 ---
 
-## 🛒 **Amazon Web Scraping – Laptops & iPhone 15**
+## 🛒 **Amazon Web Scraping (Laptops + iPhone Reviews)**
 
-* Web scraping using **BeautifulSoup + Selenium**
-* Extracted laptop specs & iPhone reviews
-* Enables price tracking, competition analysis & sentiment study
-* **📁 Repo:** [https://github.com/snehuuu28/Amazon-Web-Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)
+📌 **Repo:** [https://github.com/snehuuu28/Amazon-Web-Scraping](https://github.com/snehuuu28/Amazon-Web-Scraping)
+✨ Scraped laptop details & iPhone 15 reviews using Selenium + BeautifulSoup
 
-### 📂 Important Files:
+📂 **Important Files:**
 
-* 📝 `Laptop_Products.ipynb`
-* 📝 `Iphone_Review.ipynb`
-* 📊 Dataset CSV files available in repository
+* 🔖 [Laptop Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb)
+* 🔖 [iPhone Review Scraper](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb)
+* 📊 [Laptop Dataset](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv)
+* 📊 [iPhone Reviews](https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv)
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 **Skills & Tools**
 
-<p align="left">
-<a href="https://linkedin.com/in/snehal-gawade-bb76b0228" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
+</p>
+
+---
+
+# 🔥 **GitHub Contribution Graph**
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🌐 **Connect With Me**
+
+<p>
+<a href="https://linkedin.com/in/snehal-gawade28" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Snehal_Gawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
 ---
 
-# 🛠 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# ✨ **Thank You for Visiting!**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=600&lines=Thanks+For+Stopping+By!;Happy+Coding+%F0%9F%9A%80;See+You+On+My+Projects+%F0%9F%93%9A" />
 </p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# ✨ Thanks for Visiting!
-
-### *“Turning Data into Insights.”* 🚀
 
 
