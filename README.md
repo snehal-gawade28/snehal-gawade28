@@ -1,7 +1,4 @@
 ![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
-
-<h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+ML+%7C+Analytics+%7C+NLP+🚀" />
 </p>
