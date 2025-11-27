@@ -1,22 +1,31 @@
-![logo](https://github.com/snehuuu28/snehuuu28/blob/main/image.png)
+<img src="https://github.com/snehuuu28/snehuuu28/blob/main/image.png" width="80"/>
+
+<!-- 🔹 DARK MODE PROFILE VIEWS (WORKING) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=plastic" alt="Snehal Gawade Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=PROFILE%20VIEWS&color=grey&style=for-the-badge" />
 </p>
 
+<h1 align="center">✨ Hi, I'm Snehal Gawade! 👋</h1>
+<h3 align="center">Data Scientist | ML Engineer | Data Analyst</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights...;Building+ML+Models+That+Make+Impact...;Data+Science+%7C+Machine+Learning+%7C+Analytics+%7C+NLP+🚀">
+</p>
 
 <img align="right" width="390" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehuuu28&label=Profile%20Views&color=ff1493&style=flat" />
-</p>
+---
 
 # 🌟 About Me
+
 - 🎓 Data Science Postgraduate with strong ML & Analytics expertise  
 - 🧠 Skilled in **Python, SQL, R, Tableau, Power BI, Machine Learning, NLP, ETL**  
 - 🚀 Passionate about building **real-world ML apps & end-to-end data pipelines**  
 - 📊 Love creating **interactive dashboards, clean datasets, and automation workflows**  
 - 🌱 Learning **Deep Learning, Time Series & Cloud**  
 - 📩 Email: **[snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)**
+
+---
 
 # 🚀 Highlighted Projects (with Live Apps + Repos)
 
@@ -28,11 +37,11 @@
 https://github.com/snehuuu28/Retail-Sales-Analysis-SQL-Project
 
 **What I did:**  
-- Designed a **Retail Star Schema** (FactSales, DimCustomer, DimProduct, DimRegion).  
-- Built ETL pipelines and cleaned the transactional data.  
-- Created SQL-based KPIs: Sales, Profit, Growth, and Margin calculations.  
-- Developed Power BI dashboards to present region-wise and product-wise insights.  
-- Provided recommendations that enabled an estimated **13% potential revenue improvement**.
+- Designed a **Retail Star Schema** (FactSales, DimCustomer, DimProduct, DimRegion)  
+- Built ETL pipelines and cleaned transactional data  
+- Created SQL-based KPIs: Sales, Profit, Growth & Margin  
+- Developed Power BI dashboards for region-wise and product-wise analysis  
+- Proposed insights enabling **13% potential revenue improvement**
 
 ---
 
@@ -45,10 +54,10 @@ https://github.com/snehuuu28/Titanic-Survival-Prediction
 https://titanic-survival-prediction-app1.streamlit.app/
 
 **What I did:**  
-- Performed thorough EDA and feature engineering.  
-- Built and compared classification models (Logistic Regression, Decision Tree, etc.).  
-- Tuned models and evaluated performance using precision/recall/F1.  
-- Deployed a user-friendly Streamlit app for interactive predictions.
+- Performed EDA and feature engineering  
+- Built and compared ML classification models  
+- Evaluated using precision/recall/F1 metrics  
+- Deployed an interactive Streamlit app for predictions  
 
 ---
 
@@ -61,10 +70,10 @@ https://github.com/snehuuu28/Solar-Panel-Analysis
 https://solar-panel-prediction-app.streamlit.app/
 
 **What I did:**  
-- Engineered weather-based features and cleaned the dataset.  
-- Built regression models to predict panel output.  
-- Achieved strong predictive performance and visualized insights in Streamlit.  
-- Highlighted environmental factors impacting efficiency.
+- Engineered weather-based features  
+- Built regression models for power output prediction  
+- Achieved strong regression performance  
+- Visualized results using Streamlit dashboards  
 
 ---
 
@@ -77,10 +86,10 @@ https://github.com/snehuuu28/Telecom-Churn-Prediction
 https://telecommunications-churn-prediction-app.streamlit.app/
 
 **What I did:**  
-- Trained XGBoost and Random Forest models achieving ~**92% accuracy**.  
-- Used SHAP to explain important churn drivers.  
-- Built a Streamlit dashboard to predict churn probability and visualize features.  
-- Suggested actionable retention strategies based on model insights.
+- Trained XGBoost + Random Forest achieving **92% accuracy**  
+- Used SHAP for churn driver explanations  
+- Built churn probability dashboard in Streamlit  
+- Suggested retention strategies based on insights  
 
 ---
 
@@ -93,10 +102,10 @@ https://github.com/snehuuu28/Life-Expectancy-Prediction
 https://life-expectancy-prediction.streamlit.app/
 
 **What I did:**  
-- Collected and cleaned socio-economic & health datasets.  
-- Built Random Forest models to predict life expectancy.  
-- Created interactive visualizations to explore country-level trends.  
-- Summarized top influencing features affecting life expectancy.
+- Cleaned & prepared WHO and socio-economic datasets  
+- Built Random Forest regression model  
+- Created interactive country-level trend visualizations  
+- Identified top global health indicators  
 
 ---
 
@@ -106,62 +115,61 @@ https://life-expectancy-prediction.streamlit.app/
 https://github.com/snehuuu28/Amazon-Web-Scraping
 
 **What I did:**  
-- Built Selenium + BeautifulSoup scrapers to collect product listings and reviews.  
-- Cleaned and structured scraped data into CSVs for analysis.  
-- Performed sentiment analysis and price/feature trend studies.  
-- Included ready-to-use Jupyter notebooks for ETL and preprocessing.
+- Built Selenium + BeautifulSoup scrapers  
+- Collected laptop product data + iPhone 15 reviews  
+- Cleaned and structured datasets for further ML analysis  
+- Performed price analysis and feature extraction  
 
 **Important files:**  
-- Laptop Scraper notebook:  
+- Laptop Scraper →  
   https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Laptop_Products.ipynb  
-- iPhone Review Scraper notebook:  
+- iPhone Review Scraper →  
   https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/Iphone_Review.ipynb  
-- Laptop dataset CSV:  
+- Laptop Dataset →  
   https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Laptop%20Products.csv  
-- iPhone reviews CSV:  
-  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv
+- iPhone Reviews Dataset →  
+  https://github.com/snehuuu28/Amazon-Web-Scraping/blob/main/data/Iphone%2015%20Amazon%20Reviews.csv  
 
 ---
 
-# 🛠 Skills & Tools
+# 🛠 Skills & Tools (Dark Mode)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffde57"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehuuu28&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=snehuuu28&theme=tokyonight" />
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 Contribution Graph (Dark)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehuuu28&theme=chartreuse-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-[LinkedIn — Snehal Gawade](https://linkedin.com/in/snehal-gawade28)
+[**LinkedIn — Snehal Gawade**](https://linkedin.com/in/snehal-gawade28)
 
 ---
 
 # ✨ Thank You for Visiting!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=600&lines=Thanks+For+Stopping+By!;Happy+Coding+%F0%9F%9A%80;See+You+On+My+Projects+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F9FF&center=true&vCenter=true&width=650&lines=Thanks+For+Stopping+By!;Happy+Coding+🚀;See+You+On+My+Projects+📚" />
 </p>
