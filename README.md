@@ -1,11 +1,13 @@
-![logo](https://github.com/snehal-gawade28/snehal-gawade28/blob/main/image.png)
-
 <h1 align="center">Snehal Gawade</h1>
 <h3 align="center">Data Analyst | Data Science | Machine Learning</h3>
 
 <p align="center">
-Turning Data into Insights • Building ML Solutions • Driving Business Impact
+Turning Data into Insights • Building ML Solutions • Driving Data-Driven Decisions
 </p>
+
+---
+
+🚀 **Open to Data Analyst / Data Science Opportunities**
 
 ---
 
@@ -20,11 +22,21 @@ Turning Data into Insights • Building ML Solutions • Driving Business Impact
 
 ---
 
+## ✨ Profile Summary
+
+💡 Data Analyst with strong expertise in **data cleaning, exploratory data analysis (EDA), and machine learning**. Proficient in **Python, SQL, and data visualization tools** to transform complex datasets into actionable insights. Experienced in building **end-to-end data pipelines, predictive models, and interactive dashboards** to support data-driven decision-making.
+
+📊 Skilled in **statistical analysis, feature engineering, and model evaluation**, with hands-on experience in projects such as **churn prediction, sales analytics, and forecasting**.
+
+🚀 Passionate about leveraging data to solve business problems and continuously learning advanced topics including **deep learning, time series forecasting, and cloud technologies**.
+
+---
+
 ## 🚀 Key Projects
 
 ### 🛍️ Retail Sales Performance Analytics (SQL + Power BI)
 
-🔗 https://github.com/snehal-gawade28/Retail-Sales-Analysis-SQL-Project
+🔗 [View Repository](https://github.com/snehal-gawade28/Retail-Sales-Analysis-SQL-Project)
 
 **Overview:**
 Developed a data analytics solution to evaluate retail performance and uncover revenue growth opportunities.
@@ -43,8 +55,7 @@ Developed a data analytics solution to evaluate retail performance and uncover r
 
 ### 🏆 Titanic Survival Prediction (Machine Learning)
 
-🔗 https://github.com/snehal-gawade28/Titanic_Survival_Prediction
-🔗 Live: https://titanic-survival-prediction-app1.streamlit.app/
+🔗 [View Repository](https://github.com/snehal-gawade28/Titanic_Survival_Prediction) | [Live App](https://titanic-survival-prediction-app1.streamlit.app/)
 
 **Overview:**
 Built a classification model to predict passenger survival using demographic and travel data.
@@ -55,8 +66,8 @@ Built a classification model to predict passenger survival using demographic and
 * Handled missing values and categorical encoding
 * Applied **feature engineering techniques**
 * Built multiple models (Logistic Regression, Random Forest)
-* Evaluated using **Accuracy, Precision, Recall, F1-score**
-* Deployed an interactive **Streamlit web app**
+* Evaluated using **Accuracy, Precision, Recall, and F1-score**
+* Deployed an interactive **Streamlit web application**
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
@@ -64,8 +75,7 @@ Built a classification model to predict passenger survival using demographic and
 
 ### ☀️ Solar Power Prediction (Regression)
 
-🔗 https://github.com/snehal-gawade28/Solar_Panel_Regression
-🔗 Live: https://solar-panel-prediction-app.streamlit.app/
+🔗 [View Repository](https://github.com/snehal-gawade28/Solar_Panel_Regression) | [Live App](https://solar-panel-prediction-app.streamlit.app/)
 
 **Overview:**
 Developed a regression model to predict solar panel power output using environmental and weather data.
@@ -75,7 +85,7 @@ Developed a regression model to predict solar panel power output using environme
 * Engineered features based on temperature, irradiance, and weather conditions
 * Built and compared regression models
 * Evaluated performance using regression metrics
-* Visualized predictions using interactive dashboards
+* Visualized predictions through interactive dashboards
 
 **Tech Stack:** Python, Regression Models, Pandas, Streamlit
 
@@ -83,19 +93,18 @@ Developed a regression model to predict solar panel power output using environme
 
 ### 📡 Telecom Customer Churn Prediction
 
-🔗 https://github.com/snehal-gawade28/Telecommunications_churn
-🔗 Live: https://telecommunications-churn-prediction-app.streamlit.app/
+🔗 [View Repository](https://github.com/snehal-gawade28/Telecommunications_churn) | [Live App](https://telecommunications-churn-prediction-app.streamlit.app/)
 
 **Overview:**
-Built a machine learning model to identify customers likely to churn and support retention strategies.
+Developed a machine learning model to identify customers at risk of churn and support retention strategies.
 
 **Key Contributions:**
 
-* Performed data preprocessing and EDA
+* Performed data preprocessing and exploratory data analysis
 * Built models using **Random Forest and XGBoost**
 * Achieved **~92% accuracy**
-* Used **SHAP for model interpretability**
-* Developed a churn prediction dashboard
+* Applied **SHAP for model interpretability**
+* Developed an interactive churn prediction dashboard
 
 **Tech Stack:** Python, XGBoost, Scikit-learn, SHAP, Streamlit
 
@@ -103,8 +112,7 @@ Built a machine learning model to identify customers likely to churn and support
 
 ### 🏥 Life Expectancy Prediction
 
-🔗 https://github.com/snehal-gawade28/Life_Expectancy-Prediction
-🔗 Live: https://life-expectancy-prediction.streamlit.app/
+🔗 [View Repository](https://github.com/snehal-gawade28/Life_Expectancy-Prediction) | [Live App](https://life-expectancy-prediction.streamlit.app/)
 
 **Overview:**
 Analyzed global health and socio-economic factors to predict life expectancy.
@@ -113,26 +121,26 @@ Analyzed global health and socio-economic factors to predict life expectancy.
 
 * Cleaned and integrated WHO datasets
 * Built regression models for prediction
-* Identified key indicators impacting life expectancy
+* Identified key health indicators impacting life expectancy
 * Created visual insights for country-level trends
 
 **Tech Stack:** Python, Pandas, Regression, Data Visualization
 
 ---
 
-### 🛒 Amazon Web Scraping (Data Collection Project)
+### 🛒 Amazon Web Scraping
 
-🔗 https://github.com/snehal-gawade28/Amazon-Web-Scraping
+🔗 [View Repository](https://github.com/snehal-gawade28/Amazon-Web-Scraping)
 
 **Overview:**
-Developed web scraping pipelines to collect product and review data for analysis.
+Developed automated pipelines to extract product and review data for analysis.
 
 **Key Contributions:**
 
-* Built scrapers using **Selenium & BeautifulSoup**
+* Built web scrapers using **Selenium and BeautifulSoup**
 * Extracted laptop product data and iPhone reviews
-* Cleaned and structured datasets for analysis
-* Prepared data for future ML and sentiment analysis
+* Cleaned and structured datasets for further analysis
+* Prepared datasets for machine learning and sentiment analysis
 
 **Tech Stack:** Python, Selenium, BeautifulSoup
 
@@ -158,6 +166,8 @@ Model Evaluation, Hyperparameter Tuning
 
 **Other Tools:** Streamlit, Git, Excel, ETL Pipelines
 
+**Additional Skills:** HTML, CSS, JavaScript, PHP, C
+
 **Concepts:** NLP, Data Pipelines, Business Analytics
 
 ---
@@ -173,12 +183,15 @@ Model Evaluation, Hyperparameter Tuning
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: https://linkedin.com/in/snehal-gawade28
+* 🔗 [LinkedIn](https://linkedin.com/in/snehal-gawade28)
 
 ---
 
-## ✨ Profile Summary
+## 🙏 Thank You for Visiting
 
-💡 Data Analyst with hands-on experience in **data cleaning, visualization, and machine learning**. Proven ability to transform complex datasets into actionable insights and build scalable solutions that drive business growth.
+Thank you for taking the time to review my profile.
+I welcome opportunities to contribute to **data-driven decision-making, analytics, and machine learning solutions**.
 
----
+📩 Feel free to connect for professional opportunities, collaborations, or discussions.
+
+🚀 Looking forward to building impactful solutions together.
