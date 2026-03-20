@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst | Data Science | Machine Learning</h3>
 
 <p align="center">
-Turning Data into Actionable Insights • Building Scalable ML Solutions • Driving Data-Driven Decisions
+Turning Data into Insights • Building ML Solutions • Driving Business Impact
 </p>
 
 ---
@@ -13,80 +13,128 @@ Turning Data into Actionable Insights • Building Scalable ML Solutions • Dri
 
 * 🎓 Data Science Postgraduate with strong foundation in analytics & machine learning
 * 📊 Skilled in **data analysis, statistical modeling, and visualization**
-* 🚀 Experienced in building **end-to-end ML solutions and data pipelines**
+* 🚀 Experienced in building **end-to-end ML pipelines and data-driven solutions**
 * 📈 Passionate about solving **real-world business problems using data**
-* 🌱 Currently learning **Deep Learning, Time Series Forecasting, and Cloud Technologies**
+* 🌱 Currently exploring **Deep Learning, Time Series Forecasting & Cloud Technologies**
 * 📩 **Email:** [snehalgawade2655@gmail.com](mailto:snehalgawade2655@gmail.com)
 
 ---
 
 ## 🚀 Key Projects
 
-### 🛍️ Retail Sales Performance Analytics
+### 🛍️ Retail Sales Performance Analytics (SQL + Power BI)
 
 🔗 https://github.com/snehal-gawade28/Retail-Sales-Analysis-SQL-Project
 
-* Designed a **star schema data model** for structured analytics
-* Developed **ETL pipelines** and cleaned large datasets
-* Built KPI metrics (Sales, Profit, Growth, Margin) using SQL
-* Created Power BI dashboards for business insights
-* 📌 Enabled **13% potential revenue improvement**
+**Overview:**
+Developed a data analytics solution to evaluate retail performance and uncover revenue growth opportunities.
+
+**Key Contributions:**
+
+* Designed a **star schema (Fact & Dimension tables)** for scalable analytics
+* Built ETL pipelines and cleaned transactional datasets
+* Developed KPIs (Sales, Profit, Growth, Margin) using SQL
+* Created interactive dashboards in Power BI
+* 📌 Identified insights leading to **13% potential revenue improvement**
+
+**Tech Stack:** SQL, Power BI, Data Modeling, ETL
 
 ---
 
-### 🏆 Titanic Survival Prediction
+### 🏆 Titanic Survival Prediction (Machine Learning)
 
-🔗 Repo: https://github.com/snehal-gawade28/Titanic-Survival-Prediction
+🔗 https://github.com/snehal-gawade28/Titanic_Survival_Prediction
 🔗 Live: https://titanic-survival-prediction-app1.streamlit.app/
 
-* Performed EDA and feature engineering
-* Built and evaluated ML classification models
-* Used precision, recall, and F1-score for evaluation
-* Deployed an interactive Streamlit application
+**Overview:**
+Built a classification model to predict passenger survival using demographic and travel data.
+
+**Key Contributions:**
+
+* Performed **EDA, data cleaning, and preprocessing**
+* Handled missing values and categorical encoding
+* Applied **feature engineering techniques**
+* Built multiple models (Logistic Regression, Random Forest)
+* Evaluated using **Accuracy, Precision, Recall, F1-score**
+* Deployed an interactive **Streamlit web app**
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-### ☀️ Solar Power Prediction
+### ☀️ Solar Power Prediction (Regression)
 
-🔗 Repo: https://github.com/snehal-gawade28/Solar-Panel-Analysis
+🔗 https://github.com/snehal-gawade28/Solar_Panel_Regression
 🔗 Live: https://solar-panel-prediction-app.streamlit.app/
 
-* Engineered weather-based features
-* Built regression models for power prediction
-* Visualized outputs with interactive dashboards
+**Overview:**
+Developed a regression model to predict solar panel power output using environmental and weather data.
+
+**Key Contributions:**
+
+* Engineered features based on temperature, irradiance, and weather conditions
+* Built and compared regression models
+* Evaluated performance using regression metrics
+* Visualized predictions using interactive dashboards
+
+**Tech Stack:** Python, Regression Models, Pandas, Streamlit
 
 ---
 
 ### 📡 Telecom Customer Churn Prediction
 
-🔗 Repo: https://github.com/snehal-gawade28/Telecom-Churn-Prediction
+🔗 https://github.com/snehal-gawade28/Telecommunications_churn
 🔗 Live: https://telecommunications-churn-prediction-app.streamlit.app/
 
-* Achieved **92% accuracy** using XGBoost & Random Forest
-* Used SHAP for model interpretability
-* Built churn prediction dashboard
-* Suggested data-driven retention strategies
+**Overview:**
+Built a machine learning model to identify customers likely to churn and support retention strategies.
+
+**Key Contributions:**
+
+* Performed data preprocessing and EDA
+* Built models using **Random Forest and XGBoost**
+* Achieved **~92% accuracy**
+* Used **SHAP for model interpretability**
+* Developed a churn prediction dashboard
+
+**Tech Stack:** Python, XGBoost, Scikit-learn, SHAP, Streamlit
 
 ---
 
 ### 🏥 Life Expectancy Prediction
 
-🔗 Repo: https://github.com/snehal-gawade28/Life-Expectancy-Prediction
+🔗 https://github.com/snehal-gawade28/Life_Expectancy-Prediction
 🔗 Live: https://life-expectancy-prediction.streamlit.app/
 
+**Overview:**
+Analyzed global health and socio-economic factors to predict life expectancy.
+
+**Key Contributions:**
+
 * Cleaned and integrated WHO datasets
-* Built regression models
-* Identified key health indicators
+* Built regression models for prediction
+* Identified key indicators impacting life expectancy
+* Created visual insights for country-level trends
+
+**Tech Stack:** Python, Pandas, Regression, Data Visualization
 
 ---
 
-### 🛒 Amazon Web Scraping
+### 🛒 Amazon Web Scraping (Data Collection Project)
 
 🔗 https://github.com/snehal-gawade28/Amazon-Web-Scraping
 
-* Built scrapers using Selenium & BeautifulSoup
-* Collected laptop data and iPhone reviews
-* Prepared datasets for analysis and ML
+**Overview:**
+Developed web scraping pipelines to collect product and review data for analysis.
+
+**Key Contributions:**
+
+* Built scrapers using **Selenium & BeautifulSoup**
+* Extracted laptop product data and iPhone reviews
+* Cleaned and structured datasets for analysis
+* Prepared data for future ML and sentiment analysis
+
+**Tech Stack:** Python, Selenium, BeautifulSoup
 
 ---
 
@@ -131,6 +179,6 @@ Model Evaluation, Hyperparameter Tuning
 
 ## ✨ Profile Summary
 
-💡 Data Analyst with hands-on experience in **data cleaning, visualization, and machine learning**. Proven ability to transform complex datasets into actionable insights and build scalable solutions that support business growth.
+💡 Data Analyst with hands-on experience in **data cleaning, visualization, and machine learning**. Proven ability to transform complex datasets into actionable insights and build scalable solutions that drive business growth.
 
 ---
